@@ -1,0 +1,1 @@
+SystemUtil.Run "浏览器exe'文件路径","链接地址"
